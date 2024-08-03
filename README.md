@@ -1,2 +1,1 @@
-# ExpressJS Assignment
-Simple solution of express.js assignment from employer.
+# Demo Backend App: Javascript with ExpressJS and MongoDB
